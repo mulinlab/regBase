@@ -46,6 +46,7 @@
 - xgboost >= 0.71
 - tabix >= 1.6
 
+### Procedures
 If you have everything installed, you can use the best parmeters to train a model as follows:
    ```bash
    cd ./script
