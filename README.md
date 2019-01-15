@@ -48,3 +48,7 @@
 - numpy
 - xgboost > 0.71
 
+
+## Copyright
+Copyright (c) Mulinlab@Tianjin Medical University 2018. All rights reserved.
+Please note some component score of regBase contains specific licence or usage constraints for non-academic usage. regBase does not grant the non-academic usage of those scores, so please contact the original score/method providers for proper usage purpose.
