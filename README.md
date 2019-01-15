@@ -8,3 +8,12 @@
    - Please note some component score of regBase contains specific licence or usage constraints for non-academic usage. regBase does not grant the non-academic usage of those scores, so please contact the original score/method providers for proper usage purpose.  
  
    - We welcome any discussion, suggestion and potential contribution of new functional prediction scores through github or contact Dr. Mulin Jun Li (mulinli{at}connect.hku.hk). 
+   
+## Requirements
+- tabix 1.6
+- python 3.5
+- scikit-learn 0.18
+- pandas 
+- numpy
+- xgboost > 0.71
+
