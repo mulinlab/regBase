@@ -11,6 +11,7 @@
    
 ## Download
 **Dataset Release:** V1.0
+
 | Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | regBase             | [file (541G)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase.gz)      | [tabix index (2.7M)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase.gz.tbi) |
