@@ -42,11 +42,9 @@
 ## Building regBase models
 ### Requirements
 - python 3.5
-- scikit-learn 0.20.1
-- xgboost > 0.71
-- pandas
-- numpy
-- tabix
+- scikit-learn >= 0.20.1
+- xgboost >= 0.71
+- tabix >= 1.6
 
 If you have everything installed, you can use the best parmeters to train a model as follows:
    ```bash
