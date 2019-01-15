@@ -1,7 +1,7 @@
 ## regBase
    regBase is a comprehensively integrated non-coding regulatory prediction scores and composite prediction models from existing tools for base-wise annotation of human genome. As such, the regBase resource provides convenience to prioritize functional regulatory SNVs and assist the fine mapping of causal regulatory SNVs without queries from numerus sources. 
    
-   Inspired by the evident significance of ensemble prediction for pathogenic/deleterious nonsynonymous substitution, regBase also systematically constructs three composite models to score functional, pathogenic and cancer driver non-coding regulatory SNVs. The prediction scores of these models are also intergrated into rebBase dataset.
+   Inspired by the evident significance of ensemble prediction for pathogenic/deleterious nonsynonymous substitution, regBase also systematically constructs three composite models to score functional, pathogenic and cancer driver non-coding regulatory SNVs. The prediction scores of these models are also intergrated into regBase dataset.
    
    - Please note some component score of regBase contains specific licence or usage constraints for non-academic usage. regBase does not grant the non-academic usage of those scores, so please contact the original score/method providers for proper usage purpose.  
  
@@ -29,12 +29,10 @@
    ```bash
    tabix -p bed regBase.gz 10:101388218-101388218 | cut -f 1-5,6
    ```
-
    Get the CADD PHRED-score from regBase (e.g chr10:101388218)
    ```bash
    tabix -p bed regBase.gz 10:101388218-101388218 | cut -f 1-5,7
    ```
-   
    Get the regBase_CAN prediction from regBase Prediction (e.g chr10:101388218)
    ```bash
    tabix -p bed regBase_prediction.gz 10:101388218-101388218 | cut -f 1-5,8,9
