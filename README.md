@@ -43,11 +43,26 @@
 ### Requirements
 - tabix 1.6
 - python 3.5
-- scikit-learn 0.18
-- pandas 
+- scikit-learn 0.20.1
+- pandas
 - numpy
 - xgboost > 0.71
 
+If you have everything installed, you can use the best parmeters to train a model as follows:
+   ```bash
+   cd ./script
+   python train_model.py
+   ```
+If you do not want to train a model from scratch instead of only prediction, you need provide a query file to do it.
+   ```bash
+   cd ./script
+   python regBase_predict.py query_file.bed
+   python regBase_Common_predict.py query_file.bed
+   ```
+The query file must be a list of variants that use the format as:
+   ```bash
+   ./script/query_file.bed
+   ```
 
 ## Copyright
 Copyright (c) Mulinlab@Tianjin Medical University 2018. All rights reserved.
