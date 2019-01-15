@@ -15,9 +15,9 @@
 | Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | regBase             | [file (541G)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase.gz)      | [tabix index (2.7M)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase.gz.tbi) |
-| regBase REG/CAN/PAT | [file (233G)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_prediction.gz) | [tabix index (2.7M)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_prediction.gz.tbi) |
-| regBase Common      | [file (6.8G)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_Common.bgz) | [tabix index (2.5M)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_Common.bgz.tbi) |
-| regBase REG_Common  | [file (557M)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_Common_prediction.bgz) | [tabix index (1.7M)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_Common_prediction.bgz.tbi) |
+| regBase Prediction REG/PAT/CAN | [file (233G)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_prediction.gz) | [tabix index (2.7M)](http://mulinlab.org/regbase/hg19/v1.0/regBase/regBase_prediction.gz.tbi) |
+| regBase Common      | [file (6.8G)](http://mulinlab.org/regbase/hg19/v1.0/regBase_Common/regBase_Common.bgz) | [tabix index (2.5M)](http://mulinlab.org/regbase/hg19/v1.0/regBase_Common/regBase_Common.bgz.tbi) |
+| regBase Common Prediction | [file (557M)](http://mulinlab.org/regbase/hg19/v1.0/regBase_Common/regBase_Common_prediction.bgz) | [tabix index (1.7M)](http://mulinlab.org/regbase/hg19/v1.0/regBase_Common/regBase_Common_prediction.bgz.tbi) |
 
 ## Building regBase models
 ### Requirements
