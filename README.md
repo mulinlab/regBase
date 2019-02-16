@@ -17,7 +17,7 @@
 
 | Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| regBase             | [file (541G)](http://147.8.193.36/regBase/hg19/v1.0/regBase/regBase.gz)      | [tabix index (2.7M)](http://147.8.193.36/regBase/hg19/v1.0/regBase/regBase.gz.tbi) |
+| regBase             | [file (541G)](http://202.113.53.226/regbase/hg19/v1.0/regBase/regBase.gz)      | [tabix index (2.7M)](http://147.8.193.36/regBase/hg19/v1.0/regBase/regBase.gz.tbi) |
 | regBase Prediction REG/PAT/CAN | [file (233G)](http://147.8.193.36/regBase/hg19/v1.0/regBase/regBase_prediction.gz) | [tabix index (2.7M)](http://147.8.193.36/regBase/hg19/v1.0/regBase/regBase_prediction.gz.tbi) |
 | regBase Common      | [file (6.8G)](http://147.8.193.36/regBase/hg19/v1.0/regBase_Common/regBase_Common.gz) | [tabix index (2.5M)](http://147.8.193.36/regBase/hg19/v1.0/regBase_Common/regBase_Common.gz.tbi) |
 | regBase Common Prediction | [file (557M)](http://147.8.193.36/regBase/hg19/v1.0/regBase_Common/regBase_Common_prediction.gz) | [tabix index (1.7M)](http://147.8.193.36/regBase/hg19/v1.0/regBase_Common/regBase_Common_prediction.gz.tbi) |
