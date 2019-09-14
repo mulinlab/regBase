@@ -17,7 +17,7 @@
 </blockquote>
 
 ## Download
-### Dataset Release: V1.1 (without regBase prediction update)
+### Dataset Release: V1.1 (without regBase prediction update, hg19)
 
 | Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -25,7 +25,7 @@
 | regBase Common      | [file (7.7G)](http://202.113.53.226/regbase/hg19/v1.1/regBase_Common/regBase_Common_v1.1.gz) | [tabix index (2.5M)](http://202.113.53.226/regbase/hg19/v1.1/regBase_Common/regBase_Common_v1.1.gz.tbi) |
 | MD5Sums             | [file](http://202.113.53.226/regbase/hg19/v1.1/MD5SUMs) |  |
 
-### Dataset Release: V1.0
+### Dataset Release: V1.0 (hg19)
 
 | Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
