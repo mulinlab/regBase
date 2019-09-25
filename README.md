@@ -16,7 +16,7 @@
    - regBase V1.1 is released. Five genome-wide functional scores were added, including DVAR, FitCons2, ncER, Orion, PAFA. Now <i>regBase</i> contains 18 tools and <i>regBase Common</i> contains 28 tools.
 </blockquote>
 
-## Download
+## Download and usage
 ### Dataset Release: V1.1 (without regBase prediction update, hg19)
 
 | Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
