@@ -35,6 +35,10 @@
 | regBase Common Prediction | [file (557M)](http://202.113.53.226/regbase/hg19/v1.0/regBase_Common/regBase_Common_prediction.gz) | [tabix index (1.7M)](http://202.113.53.226/regbase/hg19/v1.0/regBase_Common/regBase_Common_prediction.gz.tbi) |
 | MD5Sums             | [file](http://202.113.53.226/regbase/hg19/v1.0/MD5SUMs) |  |
 
+### Score interpretation and prioritization
+
+Similar to CADD C-scores and it's phred-like scores, the raw scores reported by each single tool could be obscure and less-comparable across tools and versions, we recommend to used phred-like scores ("scaled raw scores") for likely causal variant prioritization and even for comparision among different models (ranging from 1 to 99, and based on the rank of each variant relative to all possible 8.6 billion substitutions in the human reference genome). However, raw scores could be used to evalulate the base-wise differences at specific genomic region or compare score ditributions among different groups of variants, as they preserve distinctions that may be relevant across the entire scoring spectrum (see more guidelines from CADD [information page](https://cadd.gs.washington.edu/info)).
+
 ### Basic Usage
 
    Get the CADD prediction scores from regBase (e.g chr10:101388218)
