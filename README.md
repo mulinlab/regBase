@@ -37,7 +37,7 @@
 
 ### Score interpretation and prioritization
 
-Similar to CADD C-scores and it's phred-like scores, the raw scores reported by each single tool could be obscure and less-comparable across tools and versions, we recommend to used phred-like scores ("scaled raw scores") for likely causal variant prioritization and even for comparision among different models (ranging from 1 to 99, and based on the rank of each variant relative to all possible 8.6 billion substitutions in the human reference genome). However, raw scores could be used to evalulate the base-wise differences at specific genomic region or compare score ditributions among different groups of variants, as they preserve distinctions that may be relevant across the entire scoring spectrum (see more guidelines from CADD [information page](https://cadd.gs.washington.edu/info)).
+Similar to CADD C-scores and it's phred-like scores, the raw scores reported by each single tool could be obscure and less-comparable across tools and versions, we recommend to used phred-like scores ("scaled raw scores") for likely causal variant prioritization and even for comparision among different models (ranging from 1 to 99, and based on the rank of each variant relative to all possible 8.6 billion substitutions in the human reference genome). However, raw scores could be used to evalulate the base-wise differences at specific genomic region or compare score ditributions among different groups of variants, as they preserve distinctions that may be relevant across the entire scoring spectrum (see more guidelines from [CADD information page](https://cadd.gs.washington.edu/info)).
 
 ### Basic Usage
 
