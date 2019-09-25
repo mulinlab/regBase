@@ -39,6 +39,8 @@
 
 Similar to CADD C-scores and it's phred-like scores, the raw scores reported by each single tool could be obscure and less-comparable across tools and versions, we recommend to use phred-like scores ("scaled raw scores") for the likely causal variant prioritization and even for comparison among different models (ranging from 1 to 99, and based on the rank of each variant relative to all possible 8.6 billion substitutions in the human reference genome). However, raw scores could be used to evaluate the base-wise differences at specific genomic region or to compare score distributions among different groups of variants, as they preserve distinctions that may be relevant across the entire scoring spectrum (see more guidelines from [CADD information page](https://cadd.gs.washington.edu/info)).
 
+The Youden's J statistic for each tool and combined score was released together with our initial models, which could be used to classify positive and negative variants in corresponding models. 
+
 ### Basic usage
 
    Get the CADD prediction scores from regBase (e.g chr10:101388218)
