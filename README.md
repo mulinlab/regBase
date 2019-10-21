@@ -17,23 +17,9 @@
 </blockquote>
 
 ## Download and usage
-### Dataset Release: V1.1 (without regBase prediction update, hg19)
+### Dataset Release: V1.1 (without regBase prediction update, hg19) [file](https://drive.google.com/drive/folders/1XU7p3W5Jr6X8ObCoE0dQtLGtcJxLdw0J?usp=sharing)
 
-| Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
-| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| regBase             | [file (596G)](http://202.113.53.226/regbase/hg19/v1.1/regBase/regBase_v1.1.gz)      | [tabix index (2.7M)](http://202.113.53.226/regbase/hg19/v1.1/regBase/regBase_v1.1.gz.tbi) |
-| regBase Common      | [file (7.7G)](http://202.113.53.226/regbase/hg19/v1.1/regBase_Common/regBase_Common_v1.1.gz) | [tabix index (2.5M)](http://202.113.53.226/regbase/hg19/v1.1/regBase_Common/regBase_Common_v1.1.gz.tbi) |
-| MD5Sums             | [file](http://202.113.53.226/regbase/hg19/v1.1/MD5SUMs) |  |
-
-### Dataset Release: V1.0 (hg19)
-
-| Description         | Link (Size)                                                  | Tabix Index (Size)                                           |
-| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| regBase             | [file (541G)](http://202.113.53.226/regbase/hg19/v1.0/regBase/regBase.gz)      | [tabix index (2.7M)](http://202.113.53.226/regbase/hg19/v1.0/regBase/regBase.gz.tbi) |
-| regBase Prediction REG/PAT/CAN | [file (233G)](http://202.113.53.226/regbase/hg19/v1.0/regBase/regBase_prediction.gz) | [tabix index (2.7M)](http://202.113.53.226/regbase/hg19/v1.0/regBase/regBase_prediction.gz.tbi) |
-| regBase Common      | [file (6.8G)](http://202.113.53.226/regbase/hg19/v1.0/regBase_Common/regBase_Common.gz) | [tabix index (2.5M)](http://202.113.53.226/regbase/hg19/v1.0/regBase_Common/regBase_Common.gz.tbi) |
-| regBase Common Prediction | [file (557M)](http://202.113.53.226/regbase/hg19/v1.0/regBase_Common/regBase_Common_prediction.gz) | [tabix index (1.7M)](http://202.113.53.226/regbase/hg19/v1.0/regBase_Common/regBase_Common_prediction.gz.tbi) |
-| MD5Sums             | [file](http://202.113.53.226/regbase/hg19/v1.0/MD5SUMs) |  |
+### Dataset Release: V1.0 (hg19) [file](https://drive.google.com/drive/folders/1XU7p3W5Jr6X8ObCoE0dQtLGtcJxLdw0J?usp=sharing)
 
 ### Score interpretation and prioritization
 
