@@ -9,11 +9,11 @@
 
 **Updates**
 <blockquote>
-   - regBase V1.0 is released. Its current version is compiled from 24 different tools on functional annotation of non-coding variants, including Basset, CADD, CATO, CDTS, CScape, DANN, DanQ, DeepSEA, deltaSVM, Eigen, FATHMM-MKL, FATHMM-XF, FIRE, fitCons, FunSeq, FunSeq2, GenoCanyon, GWAS3D, GWAVA, LINSIGHT, ReMM, RSVP, SuRFR and PRVCS. Since some tools only support annotations for 1000 Genome Project variants, or take long runtime to compute functional scores, it first built a database, called <i>regBase Common</i>, which contains functional scores from 23 tools for 38,248,779 in the 1000 Genome Project phase 3. Among these integrated dataset, 13 tools provide precomputed scores for almost all possible substitutions of single nucleotide variant (SNV) in the human reference genome. Therefore, it also constructed a complete base-wise aggregation of non-coding variant functional scores for 8,575,894,770 substitutions of SNV, called <i>regBase</i>.
+   - regBase V1.0 is released. Its current version is compiled from 23 different tools on functional annotation of non-coding variants, including Basset, CADD, CATO, CDTS, CScape, DANN, DanQ, DeepSEA, deltaSVM, Eigen, FATHMM-MKL, FATHMM-XF, FIRE, fitCons, FunSeq, FunSeq2, GenoCanyon, GWAS3D, GWAVA, LINSIGHT, ReMM, RSVP, SuRFR and PRVCS. Since some tools only support annotations for 1000 Genome Project variants, or take long runtime to compute functional scores, it first built a database, called <i>regBase Common</i>, which contains functional scores from 23 tools for 38,248,779 in the 1000 Genome Project phase 3. Among these integrated dataset, 13 tools provide precomputed scores for almost all possible substitutions of single nucleotide variant (SNV) in the human reference genome. Therefore, it also constructed a complete base-wise aggregation of non-coding variant functional scores for 8,575,894,770 substitutions of SNV, called <i>regBase</i>.
 </blockquote>
 
 <blockquote>
-   - regBase V1.1 is released. Five genome-wide functional scores were added, including DVAR, FitCons2, ncER, Orion, PAFA. Now <i>regBase</i> contains 18 tools and <i>regBase Common</i> contains 29 tools.
+   - regBase V1.1 is released. Five genome-wide functional scores were added, including DVAR, FitCons2, ncER, Orion, PAFA. Now <i>regBase</i> contains 18 tools and <i>regBase Common</i> contains 28 tools.
 </blockquote>
 
 ## Download
