@@ -17,7 +17,7 @@
 </blockquote>
 
 ## Download
-### Dataset Release: V1.1 (without regBase prediction update, hg19) [file](https://drive.google.com/drive/folders/1XU7p3W5Jr6X8ObCoE0dQtLGtcJxLdw0J?usp=sharing)
+### Dataset Release: V1.1 (without regBase prediction update, hg19) [file](https://drive.google.com/drive/folders/1vd2XR36hiur5QseQcKBHBhd7eGE6YwDd?usp=sharing)
 
 ### Dataset Release: V1.0 (hg19) [file](https://drive.google.com/drive/folders/1XU7p3W5Jr6X8ObCoE0dQtLGtcJxLdw0J?usp=sharing)
 
