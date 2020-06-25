@@ -5,7 +5,9 @@
    
    - Please note some component score of regBase contains specific licence or usage constraints for non-academic usage. regBase does not grant the non-academic usage of those scores, so please contact the original score/method providers for proper usage purpose.  
  
-   - We welcome any discussion, suggestion and potential contribution of new functional prediction scores through github or contact Dr. Mulin Jun Li (mulinli{at}connect.hku.hk). 
+   - We welcome any discussion, suggestion and potential contribution of new functional prediction scores through github or contact Dr. Mulin Jun Li (mulinli{at}connect.hku.hk).
+   
+   - Citation：regBase: whole genome base-wise aggregation and functional prediction for human non-coding regulatory variants. Zhang S, He Y, Liu H, Zhai H, Huang D, Yi X, Dong X, Wang Z, Zhao K, Zhou Y, Wang J, Yao H, Xu H, Yang Z, Sham PC, Chen K, Li MJ*. Nucleic Acids Res. 2019 Dec 2;47(21):e134.
 
 **Updates**
 <blockquote>
