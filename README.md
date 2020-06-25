@@ -7,7 +7,7 @@
  
    - We welcome any discussion, suggestion and potential contribution of new functional prediction scores through github or contact Dr. Mulin Jun Li (mulinli{at}connect.hku.hk).
    
-   - Citation：regBase: whole genome base-wise aggregation and functional prediction for human non-coding regulatory variants. Zhang S, He Y, Liu H, Zhai H, Huang D, Yi X, Dong X, Wang Z, Zhao K, Zhou Y, Wang J, Yao H, Xu H, Yang Z, Sham PC, Chen K, Li MJ*. Nucleic Acids Res. 2019 Dec 2;47(21):e134.
+   - Citation. regBase: whole genome base-wise aggregation and functional prediction for human non-coding regulatory variants. Zhang S, He Y, Liu H, Zhai H, Huang D, Yi X, Dong X, Wang Z, Zhao K, Zhou Y, Wang J, Yao H, Xu H, Yang Z, Sham PC, Chen K, Li MJ*. Nucleic Acids Res. 2019 Dec 2;47(21):e134.
 
 **Updates**
 <blockquote>
