@@ -11,7 +11,7 @@
 
 **Updates**
 <blockquote>
-   - regBase V1.1.1 is released. Three genome-wide functional scores were added into regBase database, including CADD v1.4, CADD v1.6, CScape-Somatic. Now <i>regBase</i> contains 21 tools. Also, regBase database now is stored chromosome by chromosome for easy downloading. <i>regBase Common</i> (see V1.1) and <i>regBase prediction</i> (see V1.0) remain unchanged in this version.
+   - regBase V1.1.1 is released. Three genome-wide functional scores were added into <i>regBase</i> database, including CADD v1.4, CADD v1.6, CScape-Somatic. Now <i>regBase</i> contains 21 tools. Also, regBase database now is stored chromosome by chromosome for easy downloading. <i>regBase Common</i> (see V1.1) and <i>regBase prediction</i> (see V1.0) remain unchanged in this version.
 </blockquote>
 
 <blockquote>
