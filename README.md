@@ -3,7 +3,7 @@
    
    Inspired by the evident significance of ensemble prediction for pathogenic/deleterious nonsynonymous substitution, regBase also systematically constructs three composite models to score functional, pathogenic and cancer driver non-coding regulatory SNVs. The prediction scores of these models are also intergrated into regBase dataset.
    
-   - Please note some component score of regBase contains specific licence or usage constraints for non-academic usage. regBase does not grant the non-academic usage of those scores, so please contact the original score/method providers for proper usage purpose.  
+   - Please note some component score of regBase contains specific license or usage constraints for non-academic usage. regBase does not grant the non-academic usage of those scores, so please contact the original score/method providers for proper usage purpose.  
  
    - We welcome any discussion, suggestion and potential contribution of new functional prediction scores through github or contact Dr. Mulin Jun Li (mulinli{at}connect.hku.hk).
    
