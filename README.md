@@ -80,3 +80,7 @@ The query file must be a list of variants that use the format as:
 ## Copyright
 Copyright (c) Mulinlab@Tianjin Medical University 2016-2019. All rights reserved.
 Please note some component score of regBase contains specific licence or usage constraints for non-academic usage. regBase does not grant the non-academic usage of those scores, so please contact the original score/method providers for proper usage purpose.
+
+
+## Citation
+Zhang S, He Y, Liu H, Zhai H, Huang D, Yi X, Dong X, Wang Z, Zhao K, Zhou Y, Wang J, Yao H, Xu H, Yang Z, Sham PC, Chen K, Li MJ. regBase: whole genome base-wise aggregation and functional prediction for human non-coding regulatory variants. Nucleic Acids Res. 2019 Dec 2;47(21):e134.
